@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.1/bin/ninja/win/ninja.exe" -G Ninja -S "H:\Projects\C Calculator" -B "H:\Projects\C Calculator\cmake-build-debug"
--- Configuring done
--- Generating done
--- Build files have been written to: H:/Projects/C Calculator/cmake-build-debug
